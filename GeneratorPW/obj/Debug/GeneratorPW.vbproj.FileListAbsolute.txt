@@ -1,0 +1,12 @@
+E:\code practice\GeneratorPW\bin\Debug\GeneratorPW.exe
+E:\code practice\GeneratorPW\bin\Debug\GeneratorPW.exe.config
+E:\code practice\GeneratorPW\bin\Debug\GeneratorPW.pdb
+E:\code practice\GeneratorPW\bin\Debug\GeneratorPW.xml
+E:\code practice\GeneratorPW\obj\Debug\GeneratorPW.vbprojAssemblyReference.cache
+E:\code practice\GeneratorPW\obj\Debug\GeneratorPW.Resources.resources
+E:\code practice\GeneratorPW\obj\Debug\GeneratorPW.vbproj.GenerateResource.cache
+E:\code practice\GeneratorPW\obj\Debug\GeneratorPW.vbproj.CoreCompileInputs.cache
+E:\code practice\GeneratorPW\obj\Debug\GeneratorPW.exe
+E:\code practice\GeneratorPW\obj\Debug\GeneratorPW.xml
+E:\code practice\GeneratorPW\obj\Debug\GeneratorPW.pdb
+E:\code practice\GeneratorPW\obj\Debug\GeneratorPW.GlobalVariables.resources
